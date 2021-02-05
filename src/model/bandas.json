@@ -1,0 +1,17 @@
+[
+  {
+  id: "1",
+  name: "Crystal Castles",
+  related: "new wave"
+  },
+  {
+  id: "2",
+  name: "She Past Away",
+  related: "Synthpop"
+  },
+  {
+  id: "3",
+  name: "Joy Division",
+  related: "Post Punk"
+  },
+]
